@@ -105,8 +105,8 @@ python main.py --model minilm --review
 
 | Model | Top-1 Acc | Top-3 Acc | Macro F1 |
 |-------|-----------|-----------|----------|
-| MiniLM | — | — | — |
-| Bio_ClinicalBERT | — | — | — |
+| MiniLM | 44.2% | 69.4% | 0.4119 |
+| Bio_ClinicalBERT | 43.5% | 65.0% | 0.3926 |
 
 *Results populated after running `python main.py`*
 
