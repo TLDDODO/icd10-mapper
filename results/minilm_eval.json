@@ -1,0 +1,7 @@
+{
+  "model": "MiniLM",
+  "top1_accuracy": 0.4423,
+  "top3_accuracy": 0.6935,
+  "macro_f1": 0.4119,
+  "n_samples": 2914
+}

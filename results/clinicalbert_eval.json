@@ -1,0 +1,7 @@
+{
+  "model": "ClinicalBERT",
+  "top1_accuracy": 0.4348,
+  "top3_accuracy": 0.6496,
+  "macro_f1": 0.3926,
+  "n_samples": 2914
+}
